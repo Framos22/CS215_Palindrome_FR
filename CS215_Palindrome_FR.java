@@ -2,8 +2,8 @@ import java.util.Stack;
 import java.util.Scanner;
 
 /**
- * CS215_Palindrome_XXX: A program to check if a string is a palindrome using a stack.
- * Author: [Your Name]
+ * CS215_Palindrome_FR: A program to check if a string is a palindrome using a stack.
+ * Author: Felix Ramos
  */
 public class CS215_Palindrome_FR {
 
